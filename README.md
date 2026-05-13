@@ -69,12 +69,12 @@ Stock-Dashboard/
 ### Page 1 — Stock Market Analysis
 > *Candlestick chart with date range slicer, OHLCV KPI cards for any selected period.*
 
-![Stock Market Analysis Dashboard](./Dashboard-Screenshots/StockDashboard.png)
+![Stock Market Analysis Dashboard](./Dashboard Screenshots/StockDashboard.png)
 
 ### Page 2 — Portfolio Performance Dashboard
 > *Holdings breakdown, daily price vs. gain overlay, target vs. current gauge, treemap by value, and per-ticker gain/loss table.*
 
-![Portfolio Performance Dashboard](./Dashboard-Screenshots/StockPerformance.png)
+![Portfolio Performance Dashboard](./Dashboard Screenshots/StockPerformance.png)
 
 ---
 
