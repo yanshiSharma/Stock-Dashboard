@@ -210,6 +210,7 @@ This dashboard establishes a solid analytical foundation. Here's how it can evol
 **Yanshi Sharma** — Data Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-yanshiSharma-181717?style=flat-square&logo=github)](https://github.com/yanshiSharma)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-yanshi12054-181717?style=flat-square&logo=github)](https://linkedin.com/in/yanshi12054)
 
 ---
 
