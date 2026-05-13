@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Finance%20%26%20Investments-blueviolet?style=for-the-badge)
@@ -27,6 +27,7 @@ Most retail investors and early-career analysts face three pain points:
 
 This project solves all three by building a **fully interactive, filter-driven Power BI dashboard** that consolidates multi-source stock data into a clear, decision-ready visual interface.
 
+> **NOTE:** This project is made as a part of my internship period in Infosys Springboard as a Data Analyst Intern, from October 2024 to Decemebr 2024.
 ---
 
 ## 📁 Repository Structure
@@ -36,15 +37,15 @@ Stock-Dashboard/
 │
 ├── 📊 StockDashboard.pbix          # Main Power BI report file (open to explore)
 │
-├── 📂 Data Sources (Excel Files)
+├── 📂 Stock-Dataset (Excel Files)
 │   ├── stocklist.xlsx              # Master list of tracked tickers with metadata
 │   ├── holdings.xlsx               # Portfolio holdings — quantity, cost basis
 │   ├── dailygain.xlsx              # Daily price and gain/loss data per ticker
 │   └── type.xlsx                   # Asset type & industry classification lookup
 │
-├── 📄 Stock-Doc.docx               # Project documentation and analysis notes
+├── 📄 Documentation.docx               # Project documentation and analysis notes
 │
-└── 📸 Dashboard Screenshots
+└── 📸 Dashboard-Screenshots
     ├── StockDashboard.png          # Page 1 — Stock Market Analysis (candlestick view)
     └── StockPerformance.png        # Page 2 — Portfolio Performance Dashboard
 ```
@@ -68,12 +69,12 @@ Stock-Dashboard/
 ### Page 1 — Stock Market Analysis
 > *Candlestick chart with date range slicer, OHLCV KPI cards for any selected period.*
 
-![Stock Market Analysis Dashboard](./StockDashboard.png)
+![Stock Market Analysis Dashboard](./Dashboard-Screenshots/StockDashboard.png)
 
 ### Page 2 — Portfolio Performance Dashboard
 > *Holdings breakdown, daily price vs. gain overlay, target vs. current gauge, treemap by value, and per-ticker gain/loss table.*
 
-![Portfolio Performance Dashboard](./StockPerformance.png)
+![Portfolio Performance Dashboard](./Dashboard-Screenshots/StockPerformance.png)
 
 ---
 
