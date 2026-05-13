@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=power-query&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power Query-217346?style=for-the-badge&logo=power-query&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Finance%20%26%20Investments-blueviolet?style=for-the-badge)
